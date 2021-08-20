@@ -3,10 +3,8 @@
 
 # Importing Packages
 import numpy as np
-
-import cv2
 import mediapipe as mp
-
+import cv2
 
 # Video Capturion and making Detections
 # reps ctr keeps track how many repetitions they have completed while stage shows the state of the rep they are in (up/down)
