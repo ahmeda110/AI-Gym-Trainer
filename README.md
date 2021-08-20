@@ -12,9 +12,9 @@ I intend to exted the functionality of this app, so that one can keep track of e
 
 # Instalation
 
-1- git clone the repo
-2- pip install opencv-python
-3- pip install mediapipe (Python 3.7.0 needed)
-4- Enjoy your workout!
+1- git clone the repo <br>
+2- pip install opencv-python <br>
+3- pip install mediapipe (Python 3.7.0 needed) <br>
+4- Enjoy your workout! <br>
 
 
